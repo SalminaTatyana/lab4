@@ -1,0 +1,16 @@
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\bin\Debug\net6.0-windows\Lab4-skeleton.exe
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\bin\Debug\net6.0-windows\Lab4-skeleton.deps.json
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\bin\Debug\net6.0-windows\Lab4-skeleton.runtimeconfig.json
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\bin\Debug\net6.0-windows\Lab4-skeleton.dll
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\bin\Debug\net6.0-windows\Lab4-skeleton.pdb
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4_skeleton.Form1.resources
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.csproj.GenerateResource.cache
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.GeneratedMSBuildEditorConfig.editorconfig
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.AssemblyInfoInputs.cache
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.AssemblyInfo.cs
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.csproj.CoreCompileInputs.cache
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.dll
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\refint\Lab4-skeleton.dll
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.pdb
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\Lab4-skeleton.genruntimeconfig.cache
+I:\project\Студентота\lab4\Lab4-skeleton\Lab4-skeleton\obj\Debug\net6.0-windows\ref\Lab4-skeleton.dll
